@@ -8,7 +8,7 @@ Here we are using sklearn.datasets iris flower dataset to train the model using 
 3. Petal Length 
 4. Petal Width
 
-Using above 4 features we will clasify a flower in one of the three categories,
+Using above 4 features we will classify a flower in one of the three categories,
 
 0. Setosa
 1. Versicolour
